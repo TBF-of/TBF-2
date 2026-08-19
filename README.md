@@ -64,8 +64,8 @@ pkg install termux-api
 2. Clone the repository
 
 ```bash
-git clone https://github.com/TBF.of/TBF-Series-G-.git
-cd TBF-Series-G-
+git clone https://github.com/TBF.of/TBF-2.git
+cd TBF-2
 ```
 
 3. Install dependencies
