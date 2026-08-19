@@ -64,7 +64,7 @@ pkg install termux-api
 2. Clone the repository
 
 ```bash
-git clone https://github.com/cocofembo-glitch/TBF-Series-G-.git
+git clone https://github.com/TBF.of/TBF-Series-G-.git
 cd TBF-Series-G-
 ```
 
